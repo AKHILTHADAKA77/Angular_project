@@ -5,4 +5,11 @@
   --light-color: #f8f9fa;
   --dark-color: #212529;
   --gradient: linear-gradient(135deg, var(--primary-color), var(--accent-color));
-}
+            --primary-color: #4f46e5;
+            --primary-light: #6366f1;
+            --secondary-color: #10b981;
+            --accent-color: #f97316;
+            --dark-color: #1f2937;
+            --light-color: #f9fafb;
+            --gray-color: #9ca3af;
+        }
